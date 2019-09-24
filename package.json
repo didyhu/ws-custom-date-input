@@ -1,0 +1,20 @@
+{
+  "name": "custom-datetime-input",
+  "version": "1.0.0",
+  "main": "custom-datetime-input.js",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.1"
+  },
+  "scripts": {
+    "start:dev": "webpack-dev-server"
+  }
+}
