@@ -933,11 +933,6 @@ array-flatten@^2.1.0:
   resolved "https://registry.npm.taobao.org/array-flatten/download/array-flatten-2.1.2.tgz#24ef80a28c1a893617e2149b0c6d0d788293b099"
   integrity sha1-JO+AoowaiTYX4hSbDG0NeIKTsJk=
 
-array-range@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npm.taobao.org/array-range/download/array-range-1.0.1.tgz#f56e46591843611c6a56f77ef02eda7c50089bfc"
-  integrity sha1-9W5GWRhDYRxqVvd+8C7afFAIm/w=
-
 array-union@^1.0.1:
   version "1.0.2"
   resolved "https://registry.npm.taobao.org/array-union/download/array-union-1.0.2.tgz#9a34410e4f4e3da23dea375be5be70f24778ec39"
@@ -2835,9 +2830,9 @@ locate-path@^3.0.0:
     path-exists "^3.0.0"
 
 lodash@^4.17.11, lodash@^4.17.13:
-  version "4.17.15"
-  resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha1-tEf2ZwoEVbv+7dETku/zMOoJdUg=
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loglevel@^1.6.4:
   version "1.6.4"
